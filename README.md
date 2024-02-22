@@ -1,1 +1,5 @@
-# Assembler-to-computer-code-
+# Computer architecture's Lab
+Assembler to computer code
+
+# Author
+Le Hoang Khanh
